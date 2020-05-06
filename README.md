@@ -6,10 +6,13 @@
     <ul>
       <li> Spiritual </li>
       <li> Ayurveda </li>
-      <li> Astrology <li>
-      <li> Ancient <li>
-      <h2>and <li> Technical </li>
+      <li> Astrology </li>
+      <li> Ancient </li>
+       <li>  Technical </li> <br>
         <h2> knowledge and tips</h2>
+    </ul>
+  </body>
+  </html>
     
      
     
