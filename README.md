@@ -8,8 +8,8 @@
       <li> Ayurveda </li>
       <li> Astrology </li>
       <li> Ancient </li>
-       <li>  Technical </li> <br>
-        <h2> knowledge and tips</h2>
+       <li>  Technical </li> 
+        <h3> knowledge and tips</h3>
     </ul>
   </body>
   </html>
